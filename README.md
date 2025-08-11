@@ -4,7 +4,7 @@
 
 ## Overview
 
-SAP EWA Analyzer v20.0 “Ultimate Web” is a comprehensive, Streamlit-based solution designed to dramatically enhance the analysis of SAP EWA (EarlyWatch Alert) reports. It integrates advanced PDF processing, intelligent AI analysis, and web intelligence capabilities to deliver interactive, actionable reports and insights. [1] This tool aims to streamline the EWA analysis process, providing a faster, more effective way to identify areas for improvement, optimize SAP systems, and proactively mitigate risks. It's built for SAP consultants, system administrators, and IT professionals responsible for maintaining and optimizing SAP landscapes.
+SAP EWA Analyzer  is a comprehensive, Streamlit-based solution designed to dramatically enhance the analysis of SAP EWA (EarlyWatch Alert) reports. It integrates advanced PDF processing, intelligent AI analysis, and web intelligence capabilities to deliver interactive, actionable reports and insights. [1] This tool aims to streamline the EWA analysis process, providing a faster, more effective way to identify areas for improvement, optimize SAP systems, and proactively mitigate risks. It's built for SAP consultants, system administrators, and IT professionals responsible for maintaining and optimizing SAP landscapes.
 
 ## Key Features
 
@@ -20,7 +20,7 @@ SAP EWA Analyzer v20.0 “Ultimate Web” is a comprehensive, Streamlit-based so
 
 ## Architecture
 
-The SAP EWA Analyzer v20.0 “Ultimate Web” is built on a modular architecture consisting of the following key components:
+The SAP EWA Analyzer  is built on a modular architecture consisting of the following key components:
 
 1.  **Streamlit Web Interface:** Provides a user-friendly front-end for uploading EWA reports and interacting with the analysis results.
 2.  **PDF Parsing Module:** Extracts data from SAP EWA reports using advanced PDF parsing techniques.
