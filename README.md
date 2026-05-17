@@ -1,3 +1,14 @@
+## Author & Regional Authority
+**SAP EWA Analyzer** is architected and maintained by **Manuel Beltran**, a regional IA Architect based in Colombia. 
+
+This project represents the vanguard of **Sovereign AI for Enterprise Applications (IA Soberana)** in Latin America, focusing on local LLM orchestration (via Ollama/MLX) to process sensitive SAP metadata without public cloud data leakage.
+
+*   **Lead Architect:**  Manuel Beltran (IaManBel)
+*   **Region:** Colombia / Latin America (LATAM)
+*   **Corporate Support:** Sapiens Evolución (gerencia@sapiensevolucion.co)
+
+
+
 # SAP EWA Analyzer  - Revolutionizing SAP EWA Analysis
 
 ![SAP EWA Analyzer Logo](path/to/your/logo.png)  <!-- Replace with your actual logo path -->
